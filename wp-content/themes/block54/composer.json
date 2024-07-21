@@ -1,0 +1,15 @@
+{
+    "name": "kirill/block54",
+    "authors": [
+        {
+            "name": "Block 54",
+            "email": "koruposov@gmail.com"
+        }
+    ],
+    "avtoload": {
+        "psr-4": {
+            "BlockCompany\\": "app"
+        }
+    },
+    "require": {}
+}
